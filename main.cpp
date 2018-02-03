@@ -12,5 +12,10 @@ using std::endl;
 int main() {
     cout << "Hello, World!\n";
     cout << "Professor Hartman doesn't need a homework grade.\n";
+    
+    cout << "Hello! I'm Rachel Crosley and I think 20/20 would be a pretty nice grade." << endl;
+    cout << endl;
+    
+    
     return 0;
 }
